@@ -20,7 +20,7 @@ Write a document explaining some of the improvements you made to the code, and w
 
 ## Who do I talk to
 
-If you have any questions please email careers@geotab.com
+If you have any questions please email a35joshi@uwaterloo.ca
 
 ## Name Generator (new!)
 
